@@ -125,7 +125,7 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mzulqarnain118">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Zulqarnain's  GitHub streak"/>
   </a>
@@ -144,5 +144,5 @@
 </a>
 
 
-![Muhammad Zulqarnain's Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadzulqarnain&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Muhammad Zulqarnain's Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadzulqarnain&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 
