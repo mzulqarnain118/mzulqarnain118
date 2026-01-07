@@ -129,53 +129,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzulqarnain118&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+</div>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzulqarnain118&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-## 💼 Professional Experience
-
-- **Freelance Full-Stack Developer** @ Self-Employed (2020 - Present)
-  - Developed 50+ web and mobile applications using React, React Native, and TypeScript
-  - Specialized in Next.js, Node.js, and modern web technologies
-  - Contributed to open-source projects with 1,000+ contributions annually
-
-- **Senior Developer** @ Quran Foundation (2023 - Present)
-  - Building scalable Islamic educational platforms
-  - Working with Next.js, TypeScript, and PostgreSQL
-  - Implementing modern UI/UX with Material-UI and Tailwind CSS
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Quran Foundation** projects
-- 🌱 Learning **Advanced React Native**, **Web3**, and **AI/ML**
-- 👯 Looking to collaborate on **Open Source** projects
-- 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**
-- ⚡ Fun fact: I love **coding**, **teaching**, and **problem-solving**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzulqarnain118&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
