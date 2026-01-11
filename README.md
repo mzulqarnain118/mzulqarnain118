@@ -141,5 +141,39 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </div>
+
+  ---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzulqarnain118&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+</div>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzulqarnain118&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /></div>
+
