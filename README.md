@@ -33,10 +33,12 @@
  <a href="https://www.linkedin.com/in/muhammad-zulqarnain-akram-1088b4195/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadzulqarnain"/>
  </a>
-<!--   <a href="https://zulqarnain-portfolio.surge.sh/" target="_blank">
+<a href="https://dev.to/mzulqarnain118" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="muhammadzulqarnain" />
- </a> -->
- <a href="https://twitter.com/Muhamma44170921?t=WBv_tV4JtTBaFFDISasotw&s=09" target="_blank">
+</a>
+<a href="https://medium.com/@mzulqarnain118" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="muhammadzulqarnain" />
+</a>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/zulqarnain5413/" target="_blank">
@@ -61,18 +63,51 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ranamzulqarnain1@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/mzulqarnain118/muhammadzulqarnain/issues)
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
 
-</p>
+<div align="center">
+  <img src="/assets/programmer.gif" alt="Coding gif" width="400" style="border-radius: 10px;" />
+</div>
 
+<br />
+
+<div align="center">
+
+```javascript
+const muhammadZulqarnain = {
+    role: "Full Stack Developer",
+    location: "Pakistan 🇵🇰",
+    passion: ["Coding", "Learning", "Sharing Knowledge"],
+    currentlyLearning: ["AR/VR", "Cloud Technologies", "Microservices"],
+    languages: ["JavaScript", "TypeScript", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js", "React Native", "Vue.js"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+        cloud: ["AWS", "DigitalOcean"],
+        devOps: ["Docker", "Kubernetes", "CI/CD"]
+    },
+    quote: "✨ Code is poetry written in logic ✨"
+};
+```
+
+</div>
+
+<br />
+
+<div align="center">
+  <p>
+    <strong>✨ Passionate about creating elegant solutions to complex problems</strong>
+  </p>
+  <p>
+    📧 <strong>Reach me:</strong> <a href="mailto:ranamzulqarnain1@gmail.com">ranamzulqarnain1@gmail.com</a>
+  </p>
+  <p>
+    💬 <strong>Ask me anything:</strong> <a href="https://github.com/mzulqarnain118/muhammadzulqarnain/issues">here</a>
+  </p>
+</div>
 <br/>
 <br/>
 <br/>
@@ -116,6 +151,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![Quran.com](https://github-readme-stats.vercel.app/api/pin/?username=quran&repo=quran.com-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/quran/quran.com-frontend)
 
 <p align="left">
   <a href="https://github.com/mzulqarnain118?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -130,9 +166,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />  
+  <img src="https://streak-stats.demolab.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" /><
+                                                                                                                                         /div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
@@ -141,8 +177,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> 
+</div>
 
   ---
 
