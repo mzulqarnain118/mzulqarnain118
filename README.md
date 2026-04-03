@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Muhammad Zulqarnain 👋
+# Hi, I'm Muhammad Zulqarnain ð
 
-### Full Stack Engineer · Turku, Finland 🇫🇮
+### Full Stack Engineer Â· Turku, Finland ð«ð®
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Full+Stack+Engineering;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Contributed+to+Quran.com+%E2%80%94+50M%2B+users;AI+Integration+%7C+LLMs+%7C+RAG+Pipelines;Based+in+Turku%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE+%7C+Open+to+EU+%26+Remote)](https://git.io/typing-svg)
 
@@ -12,20 +12,18 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zunain.com-0e75b6?style=for-the-badge)](https://zunain.com)
+[![Portfolio](https://img.shields.io/badge/ð_Portfolio-zunain.com-0e75b6?style=for-the-badge)](https://zunain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzulqarnainakram)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b4e8ff74b8886e97)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranamzulqarnain1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/h0401a)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/VV1YnxxdEgB0)
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/muhammad_zulqarnainakram)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ranamzulqarnain1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranamzulqarnain1/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranamzulqarnain1)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/183)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Muhamma44170921)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zulqarnain5413/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/muhammad_zulqarnainakram)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranamzulqarnain1)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Muhamma44170921)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranamzulqarnain1/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranamzulqarnain1)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/183)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mzulqarnain118&label=Profile+Views&color=0e75b6&style=flat-square)
 
@@ -33,17 +31,19 @@
 
 ---
 
-## 👨‍💻 About Me
- 
-- 🏠 &nbsp;Based in **Turku, Finland** — open to Finland, EU & Remote globally
-- 🌍 &nbsp;Contributed to **Quran.com** — performance & accessibility for **50M+ users**
-- ⚡ &nbsp;**5+ years** building full-stack web & mobile products · **40+ projects shipped**
-- 🤖 &nbsp;Currently integrating **AI/LLMs** — RAG pipelines, OpenAI API, workflow automation
-- 🎯 &nbsp;Focused on **SaaS, product-led growth, and scalable architecture**
-- 💼 &nbsp;Open to **full-time roles** and **freelance contracts**
-- 📬 &nbsp;Reach me at **ranamzulqarnain1@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mzulqarnainakram)
+## ð¨âð» About Me
 
-## 🛠️ Tech Stack
+- ð  &nbsp;Based in **Turku, Finland** â open to Finland, EU & Remote globally
+- ð &nbsp;Contributed to **Quran.com** â performance & accessibility for **50M+ users**
+- â¡ &nbsp;**5+ years** building full-stack web & mobile products Â· **40+ projects shipped**
+- ð¤ &nbsp;Currently integrating **AI/LLMs** â RAG pipelines, OpenAI API, workflow automation
+- ð¯ &nbsp;Focused on **SaaS, product-led growth, and scalable architecture**
+- ð¼ &nbsp;Open to **full-time roles** and **freelance contracts**
+- ð¬ &nbsp;Reach me at **ranamzulqarnain1@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mzulqarnainakram)
+
+---
+
+## ð ï¸ Tech Stack
 
 **Frontend**
 
@@ -96,24 +96,24 @@
 
 ---
 
-## 🏆 Selected Projects
+## ð Selected Projects
 
 | Project | Impact | Stack |
 |---|---|---|
-| [**Quran.com**](https://quran.com) + [QuranReflect](https://quranreflect.com/) | Performance, a11y & SEO — **50M+ users globally** | React, Next.js |
-| [**Spontivly**](https://spontivly.com) | Real-time collab — chat, tasks, analytics, AI insights | MERN, Socket.io |
+| [**Quran.com**](https://quran.com) + [QuranReflect](https://quranreflect.com/) | Performance, a11y & SEO â **50M+ users globally** | React, Next.js |
+| [**Spontivly**](https://spontivly.com) | Real-time collab â chat, tasks, analytics, AI insights | MERN, Socket.io |
 | [**Scout & Cellar**](https://scoutandcellar.com) | Scalable e-commerce, checkout & admin tooling | React, Node.js, Stripe |
-| [**Boostify**](https://boostify.com) | BI dashboard — Shopify, Stripe & analytics unified | Node.js, React |
+| [**Boostify**](https://boostify.com) | BI dashboard â Shopify, Stripe & analytics unified | Node.js, React |
 | [**AlignerBase**](https://alignerbase.com) | Secure dental workflow, RBAC, file handling | Node.js, React |
 | [**Farmdar**](https://app.farmdar.ai) | AI-powered agricultural intelligence platform | React, Node.js |
 | [**TADA Shopify App**](https://apps.shopify.com/tada-pop-ups-game-emails) | Gamified pop-ups & email capture for Shopify | React, Node.js |
 | [**Behaven Kids**](https://behavenkids.com/) | Performance & feature dev for EdTech platform | React, Next.js |
 
-> More: [Holimart](https://www.holimart.co) · [Marital Dispute Advisors](https://www.maritaldisputeadvisors.com/) · [Lord League](https://lordleague.com)
+> More: [Holimart](https://www.holimart.co) Â· [Marital Dispute Advisors](https://www.maritaldisputeadvisors.com/) Â· [Lord League](https://lordleague.com)
 
 ---
 
-## 📱 React Native — Live on Play Store
+## ð± React Native â Live on Play Store
 
 [![Deen](https://img.shields.io/badge/Deen:_Quran_Hadith_Duas-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.deen)
 [![Gastro Master](https://img.shields.io/badge/Gastro_Master-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.thor.rnfqx)
@@ -123,37 +123,52 @@
 
 ---
 
-## 📊 GitHub Stats
+## ð Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Next.js Production Apps: Server Components and API Routes](https://dev.to/muhammad_zulqarnainakram/nextjs-production-apps-server-components-and-api-routes-5a00)
+- [React Native Performance: Building High-Performance Mobile Apps](https://dev.to/muhammad_zulqarnainakram/react-native-performance-building-high-performance-mobile-apps-2gk9)
+- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
+- [Building AI Agents in 2025: From ChatGPT to Multi-Agent Systems](https://dev.to/muhammad_zulqarnainakram/building-ai-agents-in-2025-from-chatgpt-to-multi-agent-systems-1o5o)
+- [Building Production-Ready MERN Stack Applications: Lessons from 50M+ Users](https://dev.to/muhammad_zulqarnainakram/building-production-ready-mern-stack-applications-lessons-from-50m-users-1pjd)
+<!-- BLOG-POST-LIST:END -->
+
+â¡ï¸ [More posts on Dev.to](https://dev.to/muhammad_zulqarnainakram) Â· [Medium](https://medium.com/@ranamzulqarnain1)
+
+---
+
+## ð GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=mzulqarnain118&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mzulqarnain118&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mzulqarnain118&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mzulqarnain118&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
 
-## 🌍 Open Source Contributions
+## ð Open Source Contributions
 
 [![Quran.com Frontend](https://github-readme-stats.vercel.app/api/pin/?username=quran&repo=quran.com-frontend&theme=tokyonight&hide_border=true)](https://github.com/quran/quran.com-frontend)
 
 ---
 
-## 🎓 Certifications
+## ð Certifications
+
+**HackerRank Certified:**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/0670402877cb)
 [![React](https://img.shields.io/badge/React-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/08469f6dc4fa)
@@ -169,5 +184,5 @@
 <div align="center">
   <i>Open to full-time roles and freelance contracts in Finland, EU, and Remote globally.</i>
   <br><br>
-  <b>ranamzulqarnain1@gmail.com · <a href="https://zunain.com">zunain.com</a> · <a href="https://www.linkedin.com/in/mzulqarnainakram">LinkedIn</a></b>
+  <b>ranamzulqarnain1@gmail.com Â· <a href="https://zunain.com">zunain.com</a> Â· <a href="https://www.linkedin.com/in/mzulqarnainakram">LinkedIn</a></b>
 </div>
