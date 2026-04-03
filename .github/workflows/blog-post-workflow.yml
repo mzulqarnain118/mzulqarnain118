@@ -1,0 +1,41 @@
+# -------------------------------------------------------
+# GitHub Action: Auto-update Latest Blog Posts in README
+# Place this file at: .github/workflows/blog-post-workflow.yml
+# -------------------------------------------------------
+# This runs daily at 8am UTC and updates the
+# <!-- BLOG-POST-LIST:START --> section in your README.md
+# with your 5 latest Dev.to posts automatically.
+# -------------------------------------------------------
+
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every day at 08:00 UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch: # also allows manual trigger from GitHub UI
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Dev.to posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Pull latest Dev.to posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Your Dev.to RSS feed
+          feed_list: "https://dev.to/feed/muhammad_zulqarnainakram"
+          # Number of posts to show
+          max_post_count: 5
+          # Markers in README that get replaced
+          comment_tag_name: "BLOG-POST-LIST"
+          # Commit message
+          commit_message: "chore: update latest blog posts in README [skip ci]"
+          # GitHub token (auto-provided)
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
