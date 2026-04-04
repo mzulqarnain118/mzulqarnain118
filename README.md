@@ -55,10 +55,11 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready RAG Pipelines in 2025](https://medium.com/@ranamzulqarnain1)
-- [How We Scaled Quran.com to 50M+ Users](https://medium.com/@ranamzulqarnain1)
-- [Stop Building AI Wrappers. Start Building AI Products.](https://dev.to/muhammad_zulqarnainakram)
-- [5 Next.js Performance Patterns That Cut Load Time by 60%](https://dev.to/muhammad_zulqarnainakram)
+- [Next.js Production Apps: Server Components and API Routes](https://dev.to/muhammad_zulqarnainakram/nextjs-production-apps-server-components-and-api-routes-5a00)
+- [React Native Performance: Building High-Performance Mobile Apps](https://dev.to/muhammad_zulqarnainakram/react-native-performance-building-high-performance-mobile-apps-2gk9)
+- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
+- [Building Scalable REST APIs with Node.js and Express: Production Best Practices](https://dev.to/muhammad_zulqarnainakram/building-scalable-rest-apis-with-nodejs-and-express-production-best-practices-38dl)
+- [Building AI Agents in 2025: From ChatGPT to Multi-Agent Systems](https://dev.to/muhammad_zulqarnainakram/building-ai-agents-in-2025-from-chatgpt-to-multi-agent-systems-1o5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
