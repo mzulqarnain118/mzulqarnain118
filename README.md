@@ -4,7 +4,9 @@
 ### Full-Stack AI Engineer · Quran.com (50M+ Users) · Turku, Finland 🇫🇮
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zunain.com-black?style=for-the-badge)](https://zunain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-zulqarnain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzulqarnainakram)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b4e8ff74b8886e97?mp_source=share)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranamzulqarnain1)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/muhammad_zulqarnainakram)
 [![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium)](https://medium.com/@ranamzulqarnain1)
 
@@ -45,10 +47,10 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 
 | Project | Description | Stack |
 |---|---|---|
-| [TalentAI Finland](https://github.com/mzulqarnain118/talentai-finland) | AI-powered talent matching for Finnish job market | Next.js, LLM, PostgreSQL |
-| [EU AI Bias Auditor](https://github.com/mzulqarnain118/eu-ai-bias-auditor) | Automated bias detection for EU AI Act compliance | Python, ML, FastAPI |
-| [Turku Port Optimizer](https://github.com/mzulqarnain118/turku-port-optimizer) | Real-time logistics optimization for port operations | Node.js, Optimization Algorithms |
-| [TerveysAI](https://github.com/mzulqarnain118/terveysai-appointments) | AI appointment scheduling for Finnish healthcare | Next.js, AI, PostgreSQL |
+| [TalentAI Finland](https://github.com/mzunain/talentai-finland) | AI-powered talent matching for Finnish job market | Next.js, LLM, PostgreSQL |
+| [EU AI Bias Auditor](https://github.com/mzunain/eu-ai-bias-auditor) | Automated bias detection for EU AI Act compliance | Python, ML, FastAPI |
+| [Turku Port Optimizer](https://github.com/mzunain/turku-port-optimizer) | Real-time logistics optimization for port operations | Node.js, Optimization Algorithms |
+| [TerveysAI](https://github.com/mzunain/terveysai-appointments) | AI appointment scheduling for Finnish healthcare | Next.js, AI, PostgreSQL |
 
 ---
 
@@ -67,8 +69,8 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzulqarnain118&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzulqarnain118&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mzunain&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzunain&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </div>
 
 ---
